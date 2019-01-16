@@ -4,6 +4,7 @@ public class GitEx{
 		ChangeMe a = new ChangeMe();
 		System.out.println(a.a);
 		int z = 156;
+		double x = 123421314;
 		
 	}
 }
